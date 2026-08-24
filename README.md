@@ -1,8 +1,27 @@
 <div align="center">
 
-# Hi, I'm Subhasis Mallick
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Subhasis%20Mallick&fontSize=45&fontAlignY=35&animation=twinkling">
 
-### Data Science Student • Developer • Creative Thinker
+<h3>Data Science Student • Developer • Creative Thinker</h3>
+
+<p>
+  Building with code, data & creativity 🚀
+</p>
+
+</div>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/subhasis-mallick-21a0a22b3">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:subhasismallick04@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/Subhasis-git0">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
 
 </div>
 
