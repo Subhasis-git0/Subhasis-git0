@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f17,100:161622&height=220&section=header&text=Subhasis%20Mallick&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img src="./banner.png" width="100%" alt="Subhasis Mallick Banner">
 
-<h2>Hi 👋, I'm Subhasis Mallick</h2>
+<h2>Hi, I'm Subhasis Mallick</h2>
 
 <h3>Data Science Student</h3>
 
-<p>
-  Building with code, data & creativity 🚀
-</p>
+<p>Building with code, data & creativity </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Python+Developer;Web+Developer;Machine+Learning+Enthusiast;Creative+Thinker"/>
 
