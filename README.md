@@ -2,7 +2,7 @@
 
 <img src="./helo.jpeg" width="100%" alt="Subhasis Mallick Banner">
 
-<h2>Hi, I'm Subhasis Mallick</h2>
+<h2>I'm Subhasis Mallick</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Python+Developer;Web+Developer;Machine+Learning+Enthusiast;Creative+Thinker"/>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## 🚀 About Me
+## About Me
 
 </div>
 
