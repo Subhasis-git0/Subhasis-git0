@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Subhasis Mallick Banner">
+<img src="./helo.jpeg" width="100%" alt="Subhasis Mallick Banner">
 
 <h2>Hi, I'm Subhasis Mallick</h2>
 
