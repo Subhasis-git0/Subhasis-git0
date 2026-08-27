@@ -4,10 +4,6 @@
 
 <h2>Hi, I'm Subhasis Mallick</h2>
 
-<h3>Data Science Student</h3>
-
-<p>Building with code, data & creativity </p>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Python+Developer;Web+Developer;Machine+Learning+Enthusiast;Creative+Thinker"/>
 
 </div>
@@ -23,22 +19,18 @@
 I'm a Data Science student passionate about building practical projects
 that combine **software development, data, and creativity**.
 
-- 🎓 Data Science Student
-- 💻 Python, Java & C
-- 📊 Data Science & Statistics
-- 🗄️ SQL & DBMS
-- 🌐 Web Development
-- 🤖 Machine Learning & Computer Vision
-- 🎨 Digital Illustration & Design
-
-Currently, I'm focused on improving my development skills and building
-projects that solve real-world problems.
+- Python, Java & C
+- Data Science & Statistics
+- SQL & DBMS
+- Web Development
+- Machine Learning, Deep Learning & Computer Vision
+- Digital Illustration & Design
 
 ---
 
 <div align="center">
 
-## 🤝 Connect
+## Connect
 
 <a href="https://github.com/Subhasis-git0">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -58,7 +50,7 @@ projects that solve real-world problems.
 
 <div align="center">
 
-## 💻 Tech Stack
+## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css,django,mysql,git,github,vscode&perline=10"/>
 
@@ -72,7 +64,7 @@ projects that solve real-world problems.
 
 <div align="center">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Subhasis-git0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
@@ -86,7 +78,7 @@ projects that solve real-world problems.
 
 <div align="center">
 
-## 📈 Activity Graph
+## Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhasis-git0&theme=github-compact&hide_border=true"/>
 
@@ -96,7 +88,7 @@ projects that solve real-world problems.
 
 <div align="center">
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <a href="https://github.com/Subhasis-git0">
 
