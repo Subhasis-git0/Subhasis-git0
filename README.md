@@ -64,30 +64,6 @@ that combine **software development, data, and creativity**.
 
 <div align="center">
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Subhasis-git0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=Subhasis-git0&theme=dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhasis-git0&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## Featured Projects
 
 <a href="https://github.com/Subhasis-git0">
@@ -110,6 +86,6 @@ that combine **software development, data, and creativity**.
 
 ### 🌱 Always learning. Always building.
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 </div>
