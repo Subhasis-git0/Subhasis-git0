@@ -69,7 +69,7 @@ that combine **software development, data, and creativity**.
 <div align="center">
 
 <a href="https://github.com/Subhasis-git0/Virtual-desktop-pet">
-<img src="./virtual-desktop-pet.jpg" width="50%" alt="virtual pet banner">
+<img src="./virtual-desktop-pet.jpg" width="25%" alt="virtual pet banner">
 </a>
 
 <a href="https://github.com/Subhasis-git0/OpenAI_Python_Chatbot">
