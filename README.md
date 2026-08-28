@@ -64,18 +64,16 @@ that combine **software development, data, and creativity**.
 
 <div align="center">
 
-## Featured Projects
+## ⭐ Featured Projects
 
-<a href="https://github.com/Subhasis-git0">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhasis-git0&repo=Virtual-desktop-pet&theme=dark&hide_border=true"/>
-
+<a href="https://github.com/Subhasis-git0/Virtual-desktop-pet">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhasis-git0&repo=Virtual-desktop-pet&theme=dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/Subhasis-git0">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhasis-git0&repo=OpenAI_Python_Chatbot&theme=dark&hide_border=true"/>
-
+<a href="https://github.com/Subhasis-git0/OpenAI_Python_Chatbot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhasis-git0&repo=OpenAI_Python_Chatbot&theme=dark&hide_border=true" />
 </a>
 
 </div>
