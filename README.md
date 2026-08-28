@@ -69,11 +69,11 @@ that combine **software development, data, and creativity**.
 <div align="center">
 
 <a href="https://github.com/Subhasis-git0/Virtual-desktop-pet">
-<img src="./virtual-desktop-pet" width="100%" alt="virtual pet banner">
+<img src="./virtual-desktop-pet.jpg" width="100%" alt="virtual pet banner">
 </a>
 
 <a href="https://github.com/Subhasis-git0/OpenAI_Python_Chatbot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Subhasis-git0&repo=OpenAI_Python_Chatbot&theme=dark&hide_border=true" />
+<img src="./vpn.jpg" width="100%" alt="vpn banner">
 </a>
 
 </div>
@@ -82,7 +82,7 @@ that combine **software development, data, and creativity**.
 
 <div align="center">
 
-### 🌱 Always learning. Always building.
+### Always learning. Always building.
 
 Thanks for visiting my profile!
 
