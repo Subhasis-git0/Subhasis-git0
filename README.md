@@ -73,11 +73,11 @@ that combine **software development, data, and creativity**.
 </a>
 
 <a href="https://github.com/Subhasis-git0/VPN">
-<img src="./vpn.jpg" width="20%" alt="vpn banner">
+<img src="./vpn.png" width="20%" alt="vpn banner">
 </a>
 
 <a href="https://github.com/Subhasis-git0/ANIIDCO-Website">
-<img src="./vpn.jpg" width="20%" alt="aniidco website">
+<img src="./ANIIDCO.png" width="20%" alt="aniidco website">
 </a>
 
 </div>
