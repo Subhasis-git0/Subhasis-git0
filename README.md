@@ -64,16 +64,20 @@ that combine **software development, data, and creativity**.
 
 <div align="center">
 
-## Featured Projects
+## Top Projects
 
 <div align="center">
 
 <a href="https://github.com/Subhasis-git0/Virtual-desktop-pet">
-<img src="./virtual-desktop-pet.jpg" width="25%" alt="virtual pet banner">
+<img src="./virtual-desktop-pet.jpg" width="20%" alt="virtual pet banner">
 </a>
 
-<a href="https://github.com/Subhasis-git0/OpenAI_Python_Chatbot">
-<img src="./vpn.jpg" width="100%" alt="vpn banner">
+<a href="https://github.com/Subhasis-git0/VPN">
+<img src="./vpn.jpg" width="20%" alt="vpn banner">
+</a>
+
+<a href="https://github.com/Subhasis-git0/ANIIDCO-Website">
+<img src="./vpn.jpg" width="20%" alt="aniidco website">
 </a>
 
 </div>
