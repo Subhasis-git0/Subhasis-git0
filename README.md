@@ -23,7 +23,7 @@ that combine **software development, data, and creativity**.
 - Data Science & Statistics
 - SQL & DBMS
 - HTML, CSS & JS
-- Machine Learning, Deep Learning & Computer Vision
+- Machine Learning, Deep Learning for Computer Vision
 - Digital Illustration & Design
 
 ---
