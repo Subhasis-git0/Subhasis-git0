@@ -40,24 +40,6 @@ that combine **software development, data, and creativity**.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:subhasismallick04@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,django,mysql,git,github,vscode&perline=10"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,linux,postman,figma&perline=10"/>
-
 </div>
 
 ---
